@@ -9,7 +9,7 @@ Tenho experiência prática na construção e consumo de APIs REST. No ecossiste
 No meu tempo livre, gosto de explorar o universo do desenvolvimento de jogos (especialmente com a engine Godot), assistir a séries e filmes, além de praticar exercícios físicos. Sou um profissional proativo, movido por desafios e sempre em busca de aprender novas ferramentas!
 
 📫 **Como me encontrar:**
-- LinkedIn: [Coloque seu link aqui]
+- LinkedIn: https://www.linkedin.com/in/pedroarj/
 - E-mail: pedroarcanjo8@gmail.com
 
 ---
